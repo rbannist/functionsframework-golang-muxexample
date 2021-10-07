@@ -1,0 +1,4 @@
+bin/*
+build/*
+pkg/*
+src/go.sum
